@@ -1,4 +1,4 @@
-# Cashu.space
+# docs.cashu.space
 
 Cashu.space website 
 
