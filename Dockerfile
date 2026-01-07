@@ -27,6 +27,11 @@ RUN npm ci --include=dev
 # Copy application code
 COPY . .
 
+# Build arguments for Next.js public env vars (must be available at build time)
+ARG NEXT_PUBLIC_DOCSEARCH_APP_ID
+ARG NEXT_PUBLIC_DOCSEARCH_API_KEY
+ARG NEXT_PUBLIC_DOCSEARCH_INDEX_NAME
+
 # Build application
 RUN npm run build
 
