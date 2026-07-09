@@ -1,0 +1,9 @@
+{
+  "skills": [
+    {
+      "name": "maintain-learn-mdx",
+      "description": "Add, edit, or reorder talks and presentations in learn.mdx. New items always go to the top, ordered most recent first.",
+      "location": "file:///Users/vaselisa/docs.cashu.space/.opencode/skills/learn-mdx"
+    }
+  ]
+}
