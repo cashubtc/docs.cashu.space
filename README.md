@@ -1,16 +1,18 @@
-# Cashu.space
+# docs.cashu.space
 
-Cashu.space website 
+Cashu documentation site, published at [https://docs.cashu.space](https://docs.cashu.space).
 
 ## Getting started
 
 1. Clone this repo.
-1. Install the dependencies `npm install` (NB: if you're a previous contributor we have changed to using npm instead of yarn as of 27 Feb 2023)
-1. Run the development server with `npm run dev`
-1. Access the site in development at [http://localhost:3000](http://localhost:3000)
+2. Install the dependencies with `npm install`.
+3. Run the development server with `npm run dev`.
+4. Open the site in development at [http://localhost:3000](http://localhost:3000).
 
 ## Contributing
-We're always looking for writers, coders, and translators to help us make Cashu.space more useful. You can see all the ways you can contribute or donate to the project in more details on our [Contribute page](https://cashu.space/contribute).
+
+We're always looking for writers, coders, and translators to help improve the Cashu documentation. You can contribute by opening an issue or pull request in this repository.
+
 ## License
 
 This site is open source software under the [MIT License](https://opensource.org/licenses/MIT).
