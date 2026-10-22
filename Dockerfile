@@ -1,7 +1,7 @@
 # syntax = docker/dockerfile:1
 
-# Adjust NODE_VERSION as desired
-ARG NODE_VERSION=25.2.1
+# Use a supported LTS release with the October 2026 security fixes.
+ARG NODE_VERSION=24.22.1
 FROM node:${NODE_VERSION}-slim AS base
 
 LABEL fly_launch_runtime="Next.js"
