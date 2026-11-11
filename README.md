@@ -10,7 +10,7 @@ Cashu documentation website
 1. Access the site in development at [http://localhost:3000](http://localhost:3000)
 
 ## Contributing
-We're always looking for writers, coders, and translators to help us make docs.cashu.space more useful. You can see all the ways you can contribute or donate to the project in more details on our [Contribute page](https://docs.cashu.space/contribute).
+We're always looking for writers, coders, and translators to help us make docs.cashu.space more useful. To contribute, fork this repo, follow the Getting started steps above to run the site locally, and open a pull request. If you'd like to support the project financially instead, see the donation options on our [Contribute page](https://docs.cashu.space/contribute).
 ## License
 
 This site is open source software under the [MIT License](https://opensource.org/licenses/MIT).
